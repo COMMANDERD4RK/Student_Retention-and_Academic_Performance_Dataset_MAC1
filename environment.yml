@@ -1,0 +1,9 @@
+# Notebooks in this folder share one conda environment.
+# The environment is built in .conda/ the first time a notebook starts.
+channels:
+  - defaults
+dependencies:
+  - ipykernel
+  - pandas
+  - matplotlib
+prefix: "C:\\Users\\Win11\\Downloads\\02-16-2026\\.conda"

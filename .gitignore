@@ -1,0 +1,8 @@
+.conda/
+*.ipynb_checkpoints/
+*.csv
+*.png
+*.pkl
+__pycache__/
+*.pyc
+.env
